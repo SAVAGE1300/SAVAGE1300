@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SAVAGE1300
-- 👀 I’m interested in fucking programming
+- 👀 I’m 
 - 🌱 I’m currently learning front-end web_programming
 - 💞️ I’m looking to collaborate on freelance
 - 📫 How to reach me (markovalex1300@gmail.com)
